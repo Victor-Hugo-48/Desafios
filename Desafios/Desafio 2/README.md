@@ -19,7 +19,7 @@ O script `desafio2_listas.py` contém codigos e comentarios sobre:
 1. Abra o Prompt de Comando ou PowerShell
 
 2. Entre na pasta do projeto:
-cd C:\Users\victo\OneDrive\Desktop\Desafios\Desafio1
+cd C:\Users\victo\OneDrive\Desktop\Desafios\Desafio2
 
 3.Execute o programa 
 python main.py
