@@ -1,0 +1,24 @@
+=== Relatório de Vendas ===
+
+Cliente: Victor Hugo Oliveira Alves
+Produto: camisa
+Quantidade: 15
+Valor Bruto: R$ 750.00
+Desconto: R$  37.50
+Valor Final: R$ 712.50
+
+Cliente: Carlos
+Produto: notebook
+Quantidade: 1
+Valor Bruto: R$ 2500.00
+Desconto: R$ 0.00
+Valor Final: R$ 2500.00
+
+Cliente: Maria Oliveira
+Produto: celular
+Quantidade: 5
+Valor Bruto: R$  5000.00
+Desconto: R$ 0.00
+Valor Final: R$  5000.00
+
+Total arrecadado pela loja: R$ 8212.50
